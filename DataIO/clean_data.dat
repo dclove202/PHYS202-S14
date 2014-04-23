@@ -1,0 +1,1 @@
+Clean_Data = np.arange(f).reshape(100, 5)
